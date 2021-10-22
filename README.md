@@ -31,7 +31,7 @@ Start the server
   
 ## Demo
 
-Link to Project - [click here](drawingwhiteboard.netlify.app)
+Link to Project - [click here](https://drawingwhiteboard.netlify.app)
 
 ![WhiteBoard](https://im.ezgif.com/tmp/ezgif-1-921cec7fdb84.gif)
 
